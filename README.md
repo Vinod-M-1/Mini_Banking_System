@@ -1,6 +1,6 @@
 Mini_Banking_System
 
-This project is a simulation of a mini banking system created for the CCC (Computer Concepts & C++) assignment.
+This project is a simulation of a mini banking system created for the CCC assignment.
 It demonstrates how stack and vector data structures can be applied in a banking environment.
 
 The repository contains two parts:
